@@ -9,11 +9,11 @@ Menu :
 
 -------------------------------------------------------
 
-4. Recherche dichotomique
+3. Recherche dichotomique
 
 -------------------------------------------------------
 
-5. Fonction qui renvoie la longueur d'une liste chaînée
+4. Fonction qui renvoie la longueur d'une liste chaînée
 
 -------------------------------------------------------
 
